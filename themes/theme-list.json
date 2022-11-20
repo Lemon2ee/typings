@@ -143,5 +143,9 @@
     "kobayashi":{
         "background":"#EBCD01",
         "color":"#F00D00"
+    },
+    "cobalt":{
+        "background":"#a9a6a1",
+        "color":"#1d1ba4"
     }
 }

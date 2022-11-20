@@ -9,55 +9,55 @@ green: #6f8c70
 */
 
 body {
-    background: #04F404;
+  background: #b6b09a;
 }
 
 #header {
-    color: #2e2f33;
+  color: #2e2f33;
 }
 
 #left-wing {
-    color: #2e2f33;
+  color: #2e2f33;
 }
 
 #right-wing {
-    color: #2e2f33;
+  color: #2e2f33;
 }
 
 #typing-area, #theme-area {
-    background: #0047AB;
+  background: #d9d2c8;
 }
 
 #text-display {
-    color: #FFFFFF;
+  color: #2e2f33;
 }
 
 #input-field {
-    background: #b6b09a;
-    color: #2e2f33;
+  background: #b6b09a;
+  color: #2e2f33;
 }
 
 #input-field.wrong {
-    background: rgba(210, 135, 130, 0.3);
+  background: rgba(210, 135, 130, 0.3);
 }
 
 #redo-button {
-    background: #6f8c70;
-    color: #d9d2c8;
+  background: #6f8c70;
+  color: #d9d2c8;
 }
 
 #footer {
-    color: #2e2f33;
+  color: #2e2f33;
 }
 
 .highlight {
-    color: #96907a;
+  color: #96907a;
 }
 
 .correct {
-    color: #6f8c70;
+  color: #6f8c70;
 }
 
 .wrong {
-    color: #d28782;
+  color: #d28782;
 }
